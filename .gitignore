@@ -2,6 +2,6 @@
 server-users/node_modules
 server-devices/node_modules
 server-users/db_scheme/db_init.sql
-.idea/
+
 .gitignore
 
